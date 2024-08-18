@@ -23151,8 +23151,6 @@ with pkgs;
 
   opensubdiv = callPackage ../development/libraries/opensubdiv { };
 
-  opensupaplex = callPackage ../games/opensupaplex { };
-
   open-wbo = callPackage ../applications/science/logic/open-wbo { };
 
   openwsman = callPackage ../development/libraries/openwsman { };
